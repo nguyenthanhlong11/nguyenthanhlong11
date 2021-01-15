@@ -33,12 +33,14 @@
 <br/>
 
 ### Working with git:
-<a href="https://github.com/nguyenthanhlong11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhlong11&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/nguyenthanhlong11">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhlong11&show_icons=true&theme=light&line_height=27" alt="Thành Long's github stats"/>
-</a>
+<p align=center>
+  <a href="https://github.com/nguyenthanhlong11/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhlong11&show_icons=true&theme=gotham">
+  </a>
+  <a href="https://github.com/nguyenthanhlong11/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhlong11&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  </a>
+</p>
 <div align="center">
 
 ### If interested in me, please follow me! ❤️
