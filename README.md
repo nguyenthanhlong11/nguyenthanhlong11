@@ -6,10 +6,10 @@
 - 🌱 I’m currently learning VueJs & Laravel<br/> 
 - ⚡ Fun fact: I spend my free time on cartoons
 <p>
- <img align="right" src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/main/Assets/programmer.gif" width="310px alt="programmergif">
+ <img align="right" src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/programmer.gif" width="310px alt="programmergif">
 </p>
 
-### Contact with me <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/main/Assets/handshake.gif" height="32px">:
+### Contact with me <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="32px">:
 <a href="https://www.linkedin.com/in/thanh-long/">
   <img align="left" alt="Thành Long's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
