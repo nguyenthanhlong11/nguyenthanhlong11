@@ -1,12 +1,12 @@
-<h2> <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100" /> Hello, Welcome to my Github Profile! </h2>
+<h2 align=center>  Hello, Welcome to my Github Profile! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100" /></h2>
 
-### About me <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="40px"/>
+### About me <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="32px"/>
 - 😄 My name is Long. You can call me is: Windy<br/>
 - 🤔 I am looking for a job as a web developer<br/>
 - 🌱 I’m currently learning VueJs & Laravel<br/> 
 - ⚡ Fun fact: I spend my free time on cartoons
 <p>
- <img align="right" src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/programmer.gif" width="310px alt="programmergif">
+ <img align="right" src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/programmer.gif" width="300px alt="programmergif">
 </p>
 
 ### Contact with me <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="32px">
