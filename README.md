@@ -41,7 +41,7 @@
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhlong11&theme=gotham" />
   </a>
 </p>
-
+<br><br>
 <div align="center">
 
 ### If interested in me, please follow me! ❤️
