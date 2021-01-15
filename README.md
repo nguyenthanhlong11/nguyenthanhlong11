@@ -80,3 +80,5 @@
 ### If interested in me, please follow me! ❤️
 
 </div>
+
+<a align="right"> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenthanhlong11.nguyenthanhlong11) </a>
