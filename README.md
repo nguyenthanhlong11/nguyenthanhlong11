@@ -38,7 +38,7 @@
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhlong11&show_icons=true&theme=gotham">
   </a>
   <a href="https://github.com/nguyenthanhlong11/github-readme-stats">
-  <img height=175 align="center" src=src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhlong11&theme=light&hide_langs_below=1" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhlong11&theme=light&hide_langs_below=1" />
   </a>
 </p>
 <div align="center">
