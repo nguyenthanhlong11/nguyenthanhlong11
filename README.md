@@ -38,6 +38,7 @@
   <a align="right" href="https://github.com/zumrudu-anka/cpp-artificial-neural-networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-artificial-neural-networks&theme=gotham"></a>
 </p><br/>
 
+<div>
 ### If interested in me, please follow me! ❤️
 
 </div>
