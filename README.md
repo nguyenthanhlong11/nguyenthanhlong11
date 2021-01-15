@@ -1,6 +1,6 @@
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hello <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/hi.gif" width="40px"/>, Welcome to my Github Profile! </h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hello, Welcome to my Github Profile! </h2>
 
-### About me:
+### About me <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/hi.gif" width="40px"/>:
 - 😄 My name is Long. You can call me is: Windy<br/>
 - 🤔 I am looking for a job as a web developer<br/>
 - 🌱 I’m currently learning VueJs & Laravel<br/> 
@@ -9,7 +9,7 @@
  <img align="right" src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/programmer.gif" width="310px alt="programmergif">
 </p>
 
-### Contact with me <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="32px">:
+### Contact with me<img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="32px">:
 <a href="https://www.linkedin.com/in/thanh-long/">
   <img align="left" alt="Thành Long's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
