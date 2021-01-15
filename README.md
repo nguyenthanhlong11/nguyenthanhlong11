@@ -1,4 +1,4 @@
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome to my Github Profile! </h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hello <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/hi.gif" width="40px"/>, Welcome to my Github Profile! </h2>
 
 ### About me:
 - 😄 My name is Long. You can call me is: Windy<br/>
