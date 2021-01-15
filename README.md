@@ -34,10 +34,10 @@
 
 ### Working with git:
 <p width="100%" align="center">
-  <a href="https://github.com/nguyenthanhlong11/github-readme-stats">
+  <a align="left" href="https://github.com/nguyenthanhlong11/github-readme-stats">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhlong11&show_icons=true&theme=gotham">
   </a>
-  <a href="https://github.com/nguyenthanhlong11/github-readme-stats">
+  <a align="right" href="https://github.com/nguyenthanhlong11/github-readme-stats">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhlong11&theme=gotham" />
   </a>
 </p>
