@@ -4,7 +4,8 @@
 - 😄 My name is Long. You can call me is: Windy<br/>
 - 🤔 I am looking for a job as a web developer<br/>
 - 🌱 I’m currently learning VueJs & Laravel<br/> 
-- ⚡ Fun fact: I spend my free time on cartoons
+- ⚡ Fun fact: I spend my free time on cartoons<br/>
+- [Click here to see my CV](https://nguyenthanhlong11.github.io/)
 <p>
  <img align="right" src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/programmer.gif" width="300px alt="programmergif">
 </p>
