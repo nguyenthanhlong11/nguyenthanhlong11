@@ -91,7 +91,6 @@
   <a href="https://github.com/nguyenthanhlong11">
     <img href="https://github.com/nguyenthanhlong11" src="https://img.shields.io/github/stars/nguyenthanhlong11/nguyenthanhlong11"/>
   </a>
-  
   <a href="https://github.com/nguyenthanhlong11">
     <img href="https://github.com/nguyenthanhlong11" src="https://img.shields.io/github/forks/nguyenthanhlong11/nguyenthanhlong11"/>
   </a>
