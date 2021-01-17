@@ -77,8 +77,10 @@
   </a>
 </p>
 <p align=center>
+  <a href="https://github.com/nguyenthanhlong11">
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyenthanhlong11&theme=gotham)](https://github.com/nguyenthanhlong11/nguyenthanhlong11)
+  </a>
 </p>
 <div align="center">
 
