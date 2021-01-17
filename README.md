@@ -76,12 +76,12 @@
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhlong11&layout=compact&theme=gotham" />
   </a>
 </p>
-<p align=center>
+<div align=center>
   <a href="https://github.com/nguyenthanhlong11">
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyenthanhlong11&theme=gotham)](https://github.com/nguyenthanhlong11/nguyenthanhlong11)
   </a>
-</p>
+</div>
 <div align="center">
 
 ### If interested in me, please follow me! ❤️
