@@ -84,4 +84,6 @@
 
 </div>
 
-<a align="right"> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenthanhlong11.nguyenthanhlong11) </a>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenthanhlong11.nguyenthanhlong11)
+<img href="https://github.com/nguyenthanhlong11" src="https://img.shields.io/github/stars/nguyenthanhlong11/nguyenthanhlong11"/>
+<img href="https://github.com/nguyenthanhlong11" src="https://img.shields.io/github/forks/nguyenthanhlong11/nguyenthanhlong11"/>
