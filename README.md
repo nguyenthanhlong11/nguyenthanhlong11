@@ -67,7 +67,8 @@
 </a>
 <br/>
 
-### Working with git
+<details>
+  <summary><b>Working with GIT</b></summary>
 <div align=center>
   <a href="https://github.com/nguyenthanhlong11">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhlong11&show_icons=true&theme=gotham">
@@ -82,7 +83,7 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyenthanhlong11&theme=gotham)](https://github.com/nguyenthanhlong11/nguyenthanhlong11)
   </a>
 </div>
-<div align="center">
+<div align="center"></details>
 
 ### If interested in me, please follow me! ❤️
 
