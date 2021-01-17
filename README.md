@@ -68,8 +68,8 @@
 <br/>
 
 <details>
- <summary><b>⚡Working with GIT⚡</b></summary>
-   <div align=center>
+ <summary><h2>⚡Working with GIT⚡</h2></summary>
+   <div>
     <a href="https://github.com/nguyenthanhlong11">
      <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhlong11&show_icons=true&theme=gotham">
     </a>
