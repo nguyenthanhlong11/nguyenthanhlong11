@@ -23,10 +23,6 @@
 
 ### Languages and Tools 🛠
 <a href="https://github.com/nguyenthanhlong11">
-  <img align="left" alt="Visual Studio Code" width="26px"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</a>
-<a href="https://github.com/nguyenthanhlong11">
   <img align="left" alt="HTML5" width="26px"
    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </a>
@@ -55,6 +51,16 @@
   <img align="left" alt="PHP" width="26px"
    src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
  </a>
+
+<a href="https://github.com/nguyenthanhlong11">
+  <img align="left" alt="Visual Studio Code" width="26px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+</a>
+
+<a href="https://github.com/nguyenthanhlong11">
+  <img align="left" alt="Trello" width="26px"
+   src="https://cdn1.iconfinder.com/data/icons/designer-skills/128/trello-512.png" />
+</a>
 
 <a href="https://github.com/nguyenthanhlong11">
   <img align="left" alt="GitHub" width="26px"
