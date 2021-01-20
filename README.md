@@ -1,7 +1,7 @@
 <h2 align=center>  Hello, Welcome to my Github Profile! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100" /></h2>
 
 ### About me <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="32px"/>
-- 😄 My name is Long. You can call me is: Windy<br/>
+- 😄 My name is Long. You can call me: Windy<br/>
 - 🤔 I am looking for a job as a web developer<br/>
 - 🌱 I’m currently learning VueJs & Laravel<br/> 
 - ⚡ Fun fact: I spend my free time on cartoons<br/>
