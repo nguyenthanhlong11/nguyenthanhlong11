@@ -12,7 +12,7 @@
 
 ### Contact with me <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/thanh-long/">
-  <img align="left" alt="Thành Long's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Thành Long's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://join.skype.com/invite/UwqRy00TIzKX">
   <img align="left" alt="Thành long'Skype" width="22px" src="http://simpleicon.com/wp-content/uploads/skype.png" />
